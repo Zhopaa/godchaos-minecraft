@@ -6,7 +6,7 @@
 > 🔒 Source code is private. This repo contains a showcase only.
 
 ### Скриншоты с тестового сервера / Test server screenshots
-![Chicken rain](media/01_chicken_rain.jpg)
+![Chicken rain](media/01_chicken_rain_v2.jpg)
 
 _`/chudo chickens` на Paper 26.1.2 / on Paper 26.1.2._
 
