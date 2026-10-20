@@ -5,6 +5,11 @@
 > 🔒 Исходный код закрыт. В репозитории только описание плагина.
 > 🔒 Source code is private. This repo contains a showcase only.
 
+### Скриншоты с тестового сервера / Test server screenshots
+![Chicken rain](media/01_chicken_rain.jpg)
+
+_`/chudo chickens` на Paper 26.1.2 / on Paper 26.1.2._
+
 ---
 
 ## Русский
